@@ -1,7 +1,7 @@
 # Java projekts "Git Kauliņš"
 Projekts realīzē matamā kauliņu mešanu vairakos reizes-
 
-![Metamā kauliņa attels](https://www.streamlinehq.com/icons/download/dice-outline--31049)
+![Metamā kauliņa attels]([https://www.streamlinehq.com/icons/download/dice-outline--31049](https://www.vecteezy.com/free-png/dice-png))
 ### **Darāmo darbu saraksts**
 - [x] Uzsākta lokālā projekta versionēšana
 - [x] Izveido GitHub kontu
